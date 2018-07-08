@@ -1,4 +1,4 @@
-#React-js Sass ready boilerplate
+# React-js Sass ready boilerplate
 
 React.js boilerplate sass and autoprefixer enabled
 
